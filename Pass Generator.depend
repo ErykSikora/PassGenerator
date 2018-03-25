@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521994228 source:e:\pulpit\informatyka\c++\pass generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
